@@ -1,10 +1,14 @@
 {
-  "version": "0.1.0",
-  "versionCode": 1,
+  "version": "0.2.0",
+  "versionCode": 2,
   "applicationId": "br.com.gestorfii",
   "minSdk": 26,
+  "targetSdk": 35,
   "releaseDate": "2026-10-24",
-  "apkUrl": "https://github.com/azambuja99/GestorFII-Releases/releases/download/v0.1.0/GestorFII-0.1.0.apk",
-  "sha256": "c4b9ec11a54fc66b474060f1644bec4e13f91573c051c96cb34a2f860d3a966c",
-  "signingCertificateSha256": "bedc93df36f041fe88ba9060ebdbbd2a9a7b88607039e8ee87c1f43fdb8bce00"
+  "apkUrl": "https://github.com/azambuja99/GestorFII-Releases/releases/download/v0.2.0/GestorFII-0.2.0.apk",
+  "sha256": "2504409455fff5c4e30c2949baaf5e6132875c3c674345065cab92c3650e5276",
+  "signingCertificateSha256": "bedc93df36f041fe88ba9060ebdbbd2a9a7b88607039e8ee87c1f43fdb8bce00",
+  "sourceCommit": "51c36851a8f2873b3da290d30858789d1ab6e6f7",
+  "sourceTag": "v0.2.0",
+  "backupFormatVersion": 1
 }

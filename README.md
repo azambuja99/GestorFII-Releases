@@ -10,18 +10,25 @@ Funciona offline, sem login. Dados ficam no aparelho.
 Android 8 ou superior. Baixe o arquivo APK no celular, abra e autorize a instalação
 pela origem utilizada quando o Android solicitar.
 
-## Versão 0.1.0
+## Versão 0.2.0
 
 - Cadastro e arquivo de FIIs.
 - Compras, vendas, posição, custo médio e resultado realizado sem imposto.
 - Rendimentos manuais com valor por cota, data-base e pagamento.
 - Totais mensais de previsto, a receber e recebido confirmado manualmente.
 - Funcionamento offline, interface pt-BR e dados locais.
+- Painel Configurações com versão instalada e ações de backup.
+- Exportação da carteira e importação por mesclagem, com prévia e revisão de conflitos.
+- Preservação dos registros locais e reconhecimento de reimportações sem duplicação.
 
-Validado em emulador Android 14 com 21 testes e conferência com fonte ampliada.
-Ainda sem backup, exportação, sincronização ou dados automáticos. Desinstalar/limpar
-os dados remove a carteira. O APK release usa assinatura diferente do APK debug anterior;
-Android não permite atualizar a instalação debug com essa release.
+Validado em emuladores Android 8 e 14, incluindo migrações, reimportação, falhas
+transacionais e fluxos de interface. Atualização assinada 0.1.0 → 0.2.0 verificada.
+A busca automática de rendimentos continua desativada; cadastro manual preservado.
+
+O backup contém dados financeiros sem senha. Guarde em local seguro; nenhum arquivo é
+enviado automaticamente. Desinstalar/limpar os dados remove a carteira do aparelho.
+O APK usa a mesma assinatura da release 0.1.0. Para trocar uma instalação debug,
+exporte a carteira antes de desinstalar e importe o backup após instalar a release.
 
 ## Integridade e assinatura
 
