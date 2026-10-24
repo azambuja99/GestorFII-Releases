@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "versionCode": 1,
+  "applicationId": "br.com.gestorfii",
+  "minSdk": 26,
+  "releaseDate": "2026-10-24",
+  "apkUrl": "https://github.com/azambuja99/GestorFII-Releases/releases/download/v0.1.0/GestorFII-0.1.0.apk",
+  "sha256": "c4b9ec11a54fc66b474060f1644bec4e13f91573c051c96cb34a2f860d3a966c",
+  "signingCertificateSha256": "bedc93df36f041fe88ba9060ebdbbd2a9a7b88607039e8ee87c1f43fdb8bce00"
+}
