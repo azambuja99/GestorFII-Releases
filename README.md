@@ -10,10 +10,12 @@ Funciona offline, sem login. Dados ficam no aparelho.
 Android 8 ou superior. Baixe o arquivo APK no celular, abra e autorize a instalação
 pela origem utilizada quando o Android solicitar.
 
-## Versão 0.2.0
+## Versão 0.3.0
 
 - Cadastro e arquivo de FIIs.
-- Compras, vendas, posição, custo médio e resultado realizado sem imposto.
+- Compras e vendas por preço unitário ou pelo total das cotas, com cálculo automático e taxas separadas.
+- Prévia do total bruto, taxas e desembolso/líquido; edição preserva a operação existente.
+- Posição, custo médio e resultado realizado sem imposto.
 - Rendimentos manuais com valor por cota, data-base e pagamento.
 - Totais mensais de previsto, a receber e recebido confirmado manualmente.
 - Funcionamento offline, interface pt-BR e dados locais.
@@ -22,7 +24,7 @@ pela origem utilizada quando o Android solicitar.
 - Preservação dos registros locais e reconhecimento de reimportações sem duplicação.
 
 Validado em emuladores Android 8 e 14, incluindo migrações, reimportação, falhas
-transacionais e fluxos de interface. Atualização assinada 0.1.0 → 0.2.0 verificada.
+transacionais e fluxos de interface. Atualização assinada 0.2.0 → 0.3.0 verificada.
 A busca automática de rendimentos continua desativada; cadastro manual preservado.
 
 O backup contém dados financeiros sem senha. Guarde em local seguro; nenhum arquivo é
