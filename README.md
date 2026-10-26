@@ -1,7 +1,7 @@
 # GestorFII para Android
 
 Aplicativo para registrar fundos imobiliários, compras, vendas e rendimentos mensais.
-Funciona offline, sem login. Dados ficam no aparelho.
+A carteira funciona offline, sem login. Dados ficam no aparelho. A consulta CVM requer internet.
 
 ## Download
 
@@ -10,8 +10,9 @@ Funciona offline, sem login. Dados ficam no aparelho.
 Android 8 ou superior. Baixe o arquivo APK no celular, abra e autorize a instalação
 pela origem utilizada quando o Android solicitar.
 
-## Versão 0.3.0
+## Versão 0.4.0
 
+- Consulta CVM/Fundos.NET dentro do app, com filtros oficiais por nome/CNPJ e sem importação de dados.
 - Cadastro e arquivo de FIIs.
 - Compras e vendas por preço unitário ou pelo total das cotas, com cálculo automático e taxas separadas.
 - Prévia do total bruto, taxas e desembolso/líquido; edição preserva a operação existente.
@@ -24,7 +25,7 @@ pela origem utilizada quando o Android solicitar.
 - Preservação dos registros locais e reconhecimento de reimportações sem duplicação.
 
 Validado em emuladores Android 8 e 14, incluindo migrações, reimportação, falhas
-transacionais e fluxos de interface. Atualização assinada 0.2.0 → 0.3.0 verificada.
+transacionais e fluxos de interface. Atualização assinada 0.3.0 → 0.4.0 verificada.
 A busca automática de rendimentos continua desativada; cadastro manual preservado.
 
 O backup contém dados financeiros sem senha. Guarde em local seguro; nenhum arquivo é

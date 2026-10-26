@@ -1,19 +1,22 @@
 {
-  "version": "0.3.0",
-  "versionCode": 3,
+  "version": "0.4.0",
+  "versionCode": 4,
   "applicationId": "br.com.gestorfii",
   "minSdk": 26,
   "targetSdk": 35,
   "releaseDate": "2026-10-26",
-  "apkUrl": "https://github.com/azambuja99/GestorFII-Releases/releases/download/v0.3.0/GestorFII-0.3.0.apk",
-  "sha256": "ddf921240016b441f1d13b9c7cf605e6b1c804729ec611e8833ab326b18968d6",
+  "apkUrl": "https://github.com/azambuja99/GestorFII-Releases/releases/download/v0.4.0/GestorFII-0.4.0.apk",
+  "sha256": "875de8e5613125371373bc294b900b7db7903d33a2330fd5e2181ec1585a1dd8",
   "signingCertificateSha256": "bedc93df36f041fe88ba9060ebdbbd2a9a7b88607039e8ee87c1f43fdb8bce00",
-  "sourceCommit": "d5e4e934089bbe38a4262503049777f671ad8392",
-  "sourceTag": "v0.3.0",
+  "sourceCommit": "e783d37ea613b64f3bcfb0ed8bef15488b97b910",
+  "sourceTag": "v0.4.0",
   "backupFormatVersion": 1,
   "automaticIncomeSearchEnabled": false,
   "tradeValueEntryModes": [
     "UNIT",
     "TOTAL"
-  ]
+  ],
+  "cvmConsultationEnabled": true,
+  "cvmConsultationMode": "OFFICIAL_PAGE_READ_ONLY",
+  "requiresInternetForCvmConsultation": true
 }
